@@ -8,6 +8,8 @@
 
 - 2019/11/21 画像の基礎
   - [講義スライド](https://www.dropbox.com/s/67faulum2buvlf7/lec2_image.pptx?dl=0) (ppt)
+  - プログラミング１：[00_open_img](/00_open_img)
+  - プログラミング２：[01_read_pixe]
 - 2019/11/28：画像処理と動画の基礎
 - 2019/12/5：CGの基礎〜座標変換とカメラ〜
 - 2019/12/12：CGの基礎〜３D形状の表現とピクセル化〜
@@ -31,6 +33,8 @@ git clone https://github.com/nobuyuki83/course_winter2019_unihon.git
   - Linux64bitのファイルをダウンロード（ファイル名は：processing-X.X.X-linux64.tgzなど)
   - ダウンロードしたファイルを解凍
   - ターミナル上でinstall.shを実行```sh install.sh```
+- GitをUbuntu(Linux)にインストールしたい
+  - 次のコマンドを打つ：```sudo apt-get install git```
 
 
 
