@@ -8,8 +8,8 @@
 
 - 2019/11/21 画像の基礎
   - [講義スライド](https://www.dropbox.com/s/67faulum2buvlf7/lec2_image.pptx?dl=0) (ppt)
-  - プログラミング１：[00_open_img](/00_open_img)
-  - プログラミング２：[01_read_pixe]
+  - プログラミング１：[sketch_00_open_img](/sketch_00_open_img)
+  - プログラミング２：[sketch_01_read_pixels](/sketch_01_read_pixels)
 - 2019/11/28：画像処理と動画の基礎
 - 2019/12/5：CGの基礎〜座標変換とカメラ〜
 - 2019/12/12：CGの基礎〜３D形状の表現とピクセル化〜
