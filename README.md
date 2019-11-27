@@ -11,7 +11,7 @@
   - プログラミング１：[sketch_00_open_img](/sketch_00_open_img)
   - プログラミング２：[sketch_01_read_pixels](/sketch_01_read_pixels)
 - 2019/11/28：画像処理と動画の基礎
-  - [講義スライド](https://www.dropbox.com/s/67faulum2buvlf7/lec3_imgprocess_video.pptx?dl=0) (ppt)
+  - [講義スライド](https://www.dropbox.com/s/i5t2ejw6wgpwgad/lec3_imgprocess_video.pptx?dl=0) (ppt)
   - プログラミング１：[sketch_10_grayscale](/sketch_10_grayscale)
   - プログラミング２：[sketch_11_imgdiff](/sketch_11_imgdiff)
   - プログラミング３：[sketch_12_chromakey](/sketch_12_chromakey)
