@@ -2,6 +2,7 @@
 
 日本大学、文理学科、木曜日１限　午前９：００〜１０：３０
 
+講師：梅谷信行　東京大学　特任講師　http://www.nobuyuki-umetani.com/
 
 
 ## 講義日程
@@ -28,6 +29,11 @@ Gitを使ったサンプル・プログラムのダウンロード方法
 git clone https://github.com/nobuyuki83/course_winter2019_unihon.git
 ```
 
+ダウンロードしたサンプル・プログラムの更新方法
+```
+cd <<サンプル・プログラムのディレクトリ>>
+git pull
+```
 
 
 ## トラブルシューティング
