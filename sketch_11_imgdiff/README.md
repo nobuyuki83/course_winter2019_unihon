@@ -1,4 +1,4 @@
-# Processingで画像を読んで表示する
+# Processingで２つの画像を読んで差分を表示する
 
 
 
