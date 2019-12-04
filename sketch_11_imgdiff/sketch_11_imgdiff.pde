@@ -24,7 +24,7 @@ void setup() {
       int r2 = (v2 & 0x00ff0000) >> 16;
       int g2 = (v2 & 0x0000ff00) >> 8;
       int b2 =  v2 & 0x000000ff;
-      int diff = abs(r1-r2)+abs(g1-g2)+abs(b1-b2); // get 32-bit value (AARRGGBB) for this pixel in image 2
+      int diff = abs(r1-r2)+abs(g1-g2)+abs(b1-b2); // difference
       diff *= 10;
       if( diff > 255 ){ diff = 255; } // clamp value maximum 255
       img[y][x] = diff; 
