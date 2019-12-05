@@ -4,6 +4,7 @@
 
 講師：梅谷信行　東京大学　特任講師　http://www.nobuyuki-umetani.com/
 
+梅谷信行メールアドレス：n.umetani@gmail.com
 
 ## 講義日程
 
@@ -16,7 +17,9 @@
   - プログラミング１：[sketch_10_grayscale](/sketch_10_grayscale)
   - プログラミング２：[sketch_11_imgdiff](/sketch_11_imgdiff)
   - プログラミング３：[sketch_12_chromakey](/sketch_12_chromakey)
-- 2019/12/5：CGの基礎〜座標変換とカメラ〜
+- 2019/12/5：CGの基礎〜座標変換〜
+  - [講義スライド](https://www.dropbox.com/s/ggign95hcpnwki0/lec4_perspective.pptx?dl=0)(ppt)
+  - プログラミング１：[sketch_20_flower](/sketch_20_flower)
 - 2019/12/12：CGの基礎〜３D形状の表現とピクセル化〜
 - 2019/12/19：CGの基礎〜マテリアルとライティング〜
 - 2019/12/26：演習
