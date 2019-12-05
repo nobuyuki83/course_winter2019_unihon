@@ -39,6 +39,9 @@ git pull
 ```
 
 
+
+
+
 ## トラブルシューティング
 
 - ProcessingをLinuxにインストールしたい
@@ -48,6 +51,9 @@ git pull
   - ターミナル上でinstall.shを実行```sh install.sh```
 - GitをUbuntu(Linux)にインストールしたい
   - 次のコマンドを打つ：```sudo apt-get install git```
+- '''git pull''した時に何か手元のコンピュータ上で変更があると「ローカルの変更をコミットしてください」などのエラーが出る
+  - 次のコマンド```git stash```でローカルの変更を一時的に退避させた後に、```git pull```をすればよい
+  - 参考：[[Git]変更を一時的に退避するgit stashの使い方イロハ](https://qiita.com/kashira2339/items/34281fee571c39471e48)
 
 
 
