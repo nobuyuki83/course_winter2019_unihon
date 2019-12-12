@@ -20,7 +20,8 @@
 - 2019/12/5：CGの基礎〜座標変換〜
   - [講義スライド](https://www.dropbox.com/s/ggign95hcpnwki0/lec4_perspective.pptx?dl=0)(ppt)
   - プログラミング１：[sketch_20_flower](/sketch_20_flower)
-- 2019/12/12：CGの基礎〜３D形状の表現とピクセル化〜
+- 2019/12/12：CGの基礎〜３D形状の表現〜
+  - [講義スライド](https://www.dropbox.com/s/ojznnesfh7xu02n/lec5_3dshape.pptx?dl=0)(ppt)
 - 2019/12/19：CGの基礎〜マテリアルとライティング〜
 - 2019/12/26：演習
 
