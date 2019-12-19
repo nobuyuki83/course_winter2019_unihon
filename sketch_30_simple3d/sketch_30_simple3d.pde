@@ -5,9 +5,10 @@ void setup() {
 
 void draw() {
   background(0);
+// lights();  
   translate(width/2, height/2);
 //  rotateX(frameCount / 10.0);
-  rotateY(frameCount / 12.0);
+  rotateY(frameCount / 12.0); 
 //  rotateZ(frameCount / 14.0);
   //
   smooth();
