@@ -25,6 +25,7 @@
 - 2019/12/19：CGの基礎〜マテリアルとライティング〜
   - [講義スライド](https://www.dropbox.com/s/v59taq4kpbtprab/lec6_camera.pptx?dl=0)(ppt)
 - 2019/12/26：演習
+  - プログラミング１：[sketch_50_joint](/sketch_50_joint)
 
 
 ## プログラム
