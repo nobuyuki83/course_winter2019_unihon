@@ -11,8 +11,8 @@ void draw() {
   float theta0 = sin(frameCount / 12.0);
   PMatrix3D M0 = new PMatrix3D();
   PVector RootL0 = new PVector(0,100,0); // root position in local coordinate for box0
-  PVector RootG0 = new PVector(0,0,0); // root position in local coordinate for box0
-  M0.translate(+RootG0.x,+RootG0.y,+RootG0.z); // set root to origin
+  PVector RootG0 = new PVector(0,0,0); // root position in global coordinate for box0
+  M0.translate(+RootG0.x,+RootG0.y,+RootG0.z); // move root to destination
   M0.rotateZ(theta0);
   M0.translate(-RootL0.x,-RootL0.y,-RootL0.z); // set root to origin
   // ----
@@ -20,7 +20,7 @@ void draw() {
   PVector RootL1 = new PVector(0,100,0); // root position in local coordinate for box1
   PVector RootG1 = new PVector(0,-100,0); // root position in global coorinate for box1
   M1.set(M0); // copy matrix
-  M1.translate(RootG1.x,RootG1.y,RootG1.z); // 
+  M1.translate(RootG1.x,RootG1.y,RootG1.z); // move root to destination
   M1.rotateZ(theta0);
   M1.translate(-RootL1.x,-RootL1.y,-RootL1.z); // set root to origin
   // -----------------------------
